@@ -1,0 +1,15 @@
+* {margin: 0; padding: 0; box-sizing: border-box;font-family: 'Open Sans', sans-serif;}
+
+html,body {height: 100%;}
+
+/*Classes Auixiliares*/
+.center {
+    margin: 0 auto;
+    max-width:1280px;
+    padding: 0 2%;    
+}
+
+.clear {clear: both;}
+
+
+
